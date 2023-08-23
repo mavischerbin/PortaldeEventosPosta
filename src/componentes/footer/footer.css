@@ -1,0 +1,14 @@
+.footer{
+    position: fixed;
+    bottom: 0%;
+    width: 80%;
+    height: 200px;
+    margin: auto;
+    display: flex;
+    height: 200px;
+}
+
+.lista.columna{
+    display: flex;
+    flex-direction: column;
+}

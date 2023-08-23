@@ -1,0 +1,25 @@
+li{
+    float: left;
+    list-style: none;
+    padding: 5px 20px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    margin: auto;
+    height: 60px;
+    overflow: hidden;
+
+    & img{
+        width: 200px;
+    }
+}
+
+.uicksand {front-family: 'Quickasand', sans-serif;
+    text-decoration: none;
+
+
+}
+
